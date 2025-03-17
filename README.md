@@ -1,5 +1,7 @@
 # Coffee Sales Data Analysis
 
+![image](https://github.com/user-attachments/assets/106007fb-927c-4a81-9677-686ad7ef9fc1)
+
 ## Overview
 
 This project analyzes coffee sales data using Microsoft Excel. The goal was to identify key trends in total sales, top-performing countries, and highest-spending customers. The analysis is presented through pivot tables, charts, and a dashboard.

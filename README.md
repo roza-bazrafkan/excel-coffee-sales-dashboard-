@@ -1,6 +1,7 @@
 # Coffee Sales Data Analysis
 
-![image](https://github.com/user-attachments/assets/106007fb-927c-4a81-9677-686ad7ef9fc1)
+![image](https://github.com/user-attachments/assets/ef1ccd35-20d4-4f9c-a352-7f28aa3f868f)
+
 
 ## Overview
 
